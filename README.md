@@ -2,8 +2,8 @@
 Hello! I'm William Colasso, currently I am 15 years old, and I'm a forever student 😎.
 
 ##💻 Mastered Skills
-[![My Skills](https://skillicons.dev/icons?i=vscode,discord,github,ps,ai,svg&theme=dark)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=vscode,discord,github,ps,ai,svg&theme=dark)](https://skillicons.dev)
 
 
 ##📚 Currently learning
