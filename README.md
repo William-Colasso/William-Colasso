@@ -3,13 +3,14 @@ Hello! I'm William Colasso, currently I am 15 years old, and I'm a forever stude
 
 ##💻 Mastered Skills
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,discord,github,ps,ai,svg&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,discord,github,ps,ai,svg&theme=dark)]
 
 
 ##📚 Currently learning
 
- [![My Skills](https://skillicons.dev/icons?i=arch,arduino,css,js,html,git&theme=dark)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=arch,arduino,css,js,html,git&theme=dark)]
 
+<p>These icons were taken in<a href="https://skillicons.dev"></a></p>
 
 
 ## 📊 Github Status
