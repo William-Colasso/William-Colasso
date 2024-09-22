@@ -12,8 +12,7 @@ Hello! I'm William Colasso, currently I am 15 years old, and I'm a forever stude
 
  ![My Skills](https://skillicons.dev/icons?i=arch,arduino,css,js,html,git&theme=dark)
 
-<a href="https://skillicons.dev">These icons were taken in</a>
-
+<a href="https://skillicons.dev" target="_blank">These icons were taken from here</a>
 
 ## 📊 Github Status
 
