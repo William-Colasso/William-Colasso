@@ -1,16 +1,16 @@
-## <code>console.log("Welcome to my github!")</code>
+## <code>console.log("Bem-vindo! Este é meu GitHub")</code>
 
-### About me
-Hello! I'm William Colasso, currently I am 15 years old, and I'm a forever student 😎.
+### Sobre mim
+Olá! Eu sou William Colasso, atualmente tenho 15 anos. E estou cursando Técnico em Desenvolvimento de Sistemas(1/4).
 
-### 💻 Mastered Skills
+### 💻 Habilidades & tecnologias
 
-![My Skills](https://skillicons.dev/icons?i=vscode,discord,github,ps,ai,svg&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=vscode,discord,github,ps,ai,svg,git,css,js,html&theme=dark)
 
 
-### 📚 Currently learning
+### 📚 Aprendendo atualmente
 
- ![My Skills](https://skillicons.dev/icons?i=arch,arduino,css,js,html,git&theme=dark)
+ ![My Skills](https://skillicons.dev/icons?i=arch,arduino&theme=dark)
 
 ### 📊 Github Status
 <table>
