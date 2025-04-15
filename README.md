@@ -10,7 +10,7 @@ Olá! Eu sou William Colasso, atualmente tenho 15 anos. E estou cursando Técnic
 
 ### 📚 Aprendendo atualmente
 
- ![My Skills](https://skillicons.dev/icons?i=arch,arduino&theme=dark)
+ ![My Skills](https://skillicons.dev/icons?i=java,spring,docker,arduino,ae&theme=dark)
 
 ### 📊 Github Status
 <table>
