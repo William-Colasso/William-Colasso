@@ -15,7 +15,7 @@ Olá! Eu sou William Colasso, atualmente tenho 16 anos. E estou cursando Técnic
 ### 📊 Github Status
 <table>
   <a href="https://github.com/William-Colasso">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=William-Colasso&show_icons=true&theme=transparent&include_all_commits=true&count_private=false&hide_border=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=William-Colasso&layout=compact&langs_count=6&theme=transparent&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=William-Colasso&show_icons=true&theme=transparent&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=William-Colasso&layout=compact&langs_count=6&theme=transparent"/>
 </table>
 
