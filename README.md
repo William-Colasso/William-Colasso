@@ -1,7 +1,7 @@
 ## <code>console.log("Bem-vindo! Este é meu GitHub")</code>
 
 ### Sobre mim
-Olá! Eu sou William Colasso, atualmente tenho 16 anos. E estou cursando Técnico em Desenvolvimento de Sistemas(2/4).
+Olá! Eu sou William Colasso, atualmente tenho 16 anos. E estou cursando Técnico em Desenvolvimento de Sistemas(3/4).
 
 ### 💻 Habilidades & tecnologias
 
