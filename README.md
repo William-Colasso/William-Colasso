@@ -8,7 +8,7 @@ William Colasso
 Backend com Java/Spring · Designer at heart
 
 [![location](https://img.shields.io/badge/Timbó,_SC-000?style=flat-square&logo=googlemaps&logoColor=fff)](https://github.com/William-Colasso)
-[![age](https://img.shields.io/badge/16_anos-000?style=flat-square)](https://github.com/William-Colasso)
+[![age](https://img.shields.io/badge/17_anos-000?style=flat-square)](https://github.com/William-Colasso)
 [![course](https://img.shields.io/badge/Técnico_em_Desenvolvimento_de_Sistemas_(3%2F4)-000?style=flat-square)](https://github.com/William-Colasso)
 [![status](https://img.shields.io/badge/open_to_collaborate-2d9c54?style=flat-square)](https://github.com/William-Colasso)
 
